@@ -1,2 +1,2 @@
-# Deep_ICR
+# practices
 this project for text_recognition purposes 
